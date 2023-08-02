@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "learning node basics",
   "main": "basic.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerablackham/node-basics"
+  },
   "scripts": {
     "run": "node basic.js"
   },
