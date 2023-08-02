@@ -1,0 +1,14 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "learning node basics",
+  "main": "basic.js",
+  "scripts": {
+    "run": "node basic.js"
+  },
+  "author": "Tyler Blackham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
