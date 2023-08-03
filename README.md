@@ -39,7 +39,8 @@ for the project to run.
 
 Script Execution
 - npm also allows for the creation of custom scripts in the `package.json` file.
-- These scripts can be run by using `npm run <script name>`
+- These scripts can be run by using `npm run <script name>` or by clicking the play button next to
+the script definition in the `package.json` file
 
 ## Some Application Help
 
